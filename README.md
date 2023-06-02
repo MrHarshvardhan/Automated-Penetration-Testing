@@ -10,4 +10,7 @@ Overall, Automated-Penetration-Testing offers a powerful suite of automated tool
 
 **Help:**
 
-AutoPT.sh target_domain.txt // provied you domain list in the text file.
+cd Atomated-Penetration-Testing
+chmod +x *
+Tools.sh // install all necessary tool with sh
+AutoPT.sh <target_domain.txt> // provied you domain list in the text file.
